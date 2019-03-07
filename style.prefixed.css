@@ -6,7 +6,10 @@ body {
 }
 
 .container {
-    text-decoration-line: underlne;
+    -webkit-text-decoration-line: underlne;
+            text-decoration-line: underlne;
+    display: -ms-flexbox;
+    display: flex;
 }
 
 .content {
