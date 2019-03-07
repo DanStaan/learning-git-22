@@ -5,6 +5,9 @@ body {
     margin: 0;
 }
 
+.container {
+    text-decoration-line: underline
+}
 
 .content {
     max-width: 500px;
